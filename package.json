@@ -2,7 +2,10 @@
   "name": "ext-unionize",
   "version": "0.1.0",
   "description": "Extension that provide externally tagged representation for unionize.",
-  "repository": "https://github.com/rjotanm/ext-unionize",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjotanm/ext-unionize.git"
+  },
   "author": "Rinat Balbekov <me@rjotanm.dev>",
   "license": "MIT",
   "main": "lib/index.js",
